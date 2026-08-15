@@ -1,1 +1,1 @@
-# Proyecto-juego-riksk
+# Proyecto-juego-risk
